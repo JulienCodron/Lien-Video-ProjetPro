@@ -1,5 +1,5 @@
 # VideoProjetsPro
-Présentation Projet Pro:
+Vous trouverez ici les liens, vidéos et présentations des projets professionnels auxquels j'ai pu participer :
 
 HALLE 4.0 AFTRAL
 - Vidéo Présentation : Halle4-0_AFTRAL_Presentation
